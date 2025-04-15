@@ -1,7 +1,7 @@
 # Ex02 Django ORM Web Application
 ## Date: 15.04.2025
-## NAME:VEMBARASI.A.R
-## REGISTER NUMBER:212224220120
+## Name: Vembarasi.A.R
+## Register Number: 212224220120
 
 ## AIM
 To develop a Django application to store and retrieve data from a Movies Database using Object Relational Mapping(ORM).
